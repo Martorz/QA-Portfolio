@@ -2,7 +2,8 @@
 
 ## Ключевые навыки
 
-* Написание тест-кейсов, баг-репортов, acceptance criteria и DoD
+* Написание тест-кейсов, баг-репортов, отчетов о тестировании, acceptance criteria и DoD
+* Тестирование REST и SOAP API
 * Ручное тестирование
 * Тестирование форм
 * Функциональное тестирование
@@ -24,6 +25,9 @@
 * BrowserStack
 * Unity
 * Microsoft Visual Studio
+* MySQL
+* Postman
+* Soap UI
 
 ### Языки программирования
 
