@@ -1,7 +1,7 @@
 # C4: Изменение количества товара в корзине кнопкой "-" (кол-во товара >1)
 
-**Type**: Functional 
-**Priority**: High 
+**Type**: Functional  
+**Priority**: High  
 **Preconditions**: Браузер Firefox 116.0.3 (64-разрядный). Откройте сайт http://prestashop.qatestlab.com.ua/en/ 
 
 ### Steps
