@@ -16,4 +16,4 @@
 
 **Приоритет:** Low
 
-![Bug screenshot](/img/001.png "Bug screenshot")
+![Bug screenshot](/Bug reports/OnlineShop-01-09-2023/img/001.png "Bug screenshot")
